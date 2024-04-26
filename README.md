@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Cyber Security and Backend Developer<br>
 
 ![](https://komarev.com/ghpc/?username=aksar43&color=blue)
