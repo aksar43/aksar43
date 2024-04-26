@@ -1,6 +1,7 @@
 # 💫 About Me:
 Cyber Security and Backend Developer<br>
 
+https://komarev.com/ghpc/?username=aksar43&color=blue
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rrecep_aksarr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Recep AKŞAR) 
